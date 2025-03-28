@@ -3,7 +3,7 @@ selenium
 webdriver-manager
 pytesseract
 Pillow
-opencv-python
+opencv-python-headless  # Use headless version for cloud deployment
 numpy
 python-docx
 docx2pdf
