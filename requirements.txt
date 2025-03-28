@@ -1,0 +1,10 @@
+streamlit
+selenium
+webdriver-manager
+pytesseract
+Pillow
+opencv-python
+numpy
+python-docx
+docx2pdf
+tqdm
